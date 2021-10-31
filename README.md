@@ -13,10 +13,10 @@ Run `git clone https://github.com/Verson-tech/Full-Stack-Holy-Grail-Application-
 Run `npm install`\
 Run `docker run -p 6379:6379 --name some-redis -d redis`\
 Run `npm install express --save`\
-Run `npm install redis`\
-- Other usefull commands:
+Run `npm install redis`
+- Other usefull commands:<br/>
 Run `docker ps`\
-Run `node index.js`\
+Run `node index.js`
 
 ## Technology used:
 
@@ -31,4 +31,5 @@ Run `node index.js`\
 ## Features:
 
 - An app with synchronized communication between the client, server, and data store
-- Future improvments: This project is for educational purposes.
+- Future improvments:<br/>
+ This project is for educational purposes.
