@@ -5,7 +5,7 @@
 > Description/Motivation: 
 
 This project is for educational purposes.
-- [Holy grail (web design)](hhttps://en.wikipedia.org/wiki/Holy_grail_(web_design))
+- [Holy grail (web design)](https://en.wikipedia.org/wiki/Holy_grail_(web_design)) 
 
 ## Installation Guidelines:
 
