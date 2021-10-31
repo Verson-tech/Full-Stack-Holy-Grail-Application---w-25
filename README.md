@@ -1,6 +1,6 @@
-<img src="frontend.PNG" align="right" />
-
 # Full-Stack Holy Grail Application
+
+<img src="frontend.PNG"/>
 
 > Description/Motivation: 
 
